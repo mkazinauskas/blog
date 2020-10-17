@@ -5,7 +5,7 @@ author: Modestas Kažinauskas
 description: "Blog about technology, development and soft skills"
 github_username: mkazinauskas
 baseurl: "/blog"
-url: "https://mkazinauskas.github.io"
+url: "https://mkazinauskas.github.io/blog"
 google_analytics: "UA-169701976-2"
 animated: false
 
